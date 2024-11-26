@@ -1,8 +1,8 @@
 > Software Project Lab 2
 
-# EmPower - Interactive Learning Tool for Autistic Children 🌟
+# AutismX - Personlized Learning Platform for children with developmental disabilities 🌟
 
-Empower is an innovative and user-friendly interactive learning tool designed to provide fundamental academics to autistic children. This platform is specifically tailored to address the unique challenges faced by autistic children in the realms of behavior, speech, and social interaction. It introduces a fresh approach to teaching by offering an engaging and accessible experience. EmPower aims to equip students with essential skills, including identifying objects (nouns), tasks (verbs), scheduling activities, and understanding associations. The system comes complete with interactive evaluation, gaze tracking, and comprehensive progress monitoring features to ensure a holistic learning experience.
+AutismX is an innovative and user-friendly interactive learning tool designed to provide fundamental academics to autistic children. This platform is specifically tailored to address the unique challenges faced by autistic children in the realms of behavior, speech, and social interaction. It introduces a fresh approach to teaching by offering an engaging and accessible experience. EmPower aims to equip students with essential skills, including identifying objects (nouns), tasks (verbs), scheduling activities, and understanding associations. The system comes complete with interactive evaluation, gaze tracking, and comprehensive progress monitoring features to ensure a holistic learning experience.
 
 ## Table of Contents
 
