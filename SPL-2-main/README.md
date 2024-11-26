@@ -30,7 +30,7 @@ AutismX is an interactive and personalized learning platform designed to cater t
 ## Installation and Running the Project
 
 ### Step 1: Clone the Repository
-git clone https://github.com/your-username/autismx.git
+git clone https://github.com/Palak45ramteke9/majorproject.git
 cd autismx
 
 ### Step 2: Install Dependencies
